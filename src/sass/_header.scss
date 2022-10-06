@@ -1,0 +1,11 @@
+.header {
+  background-color: blanchedalmond;
+  &__container {
+    background-color: tomato;
+  }
+
+  &__title {
+    font-size: 30px;
+    background-color: aqua;
+  }
+}
